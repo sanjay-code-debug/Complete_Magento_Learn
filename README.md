@@ -26,7 +26,8 @@ Factories(Factory Class)
 
 Indexing
 --------
-![indexing](https://user-images.githubusercontent.com/78407424/170829738-89200bdb-c188-4b63-a3dc-fa168c83c840.png)
+![Screenshot from 2022-05-28 19-30-43](https://user-images.githubusercontent.com/78407424/170829798-5186503c-dead-4948-a22e-c9620b424515.png)
+
 
 
 Caching
