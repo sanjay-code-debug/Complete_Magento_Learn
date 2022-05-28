@@ -14,7 +14,8 @@ Service Contract
 
 Proxies(Proxy Class)
 --------------------
-![Screenshot from 2022-05-18 10-11-56](https://user-images.githubusercontent.com/78407424/168958702-ba6a1bfc-3b9f-460f-9209-383d8542991d.png)
+![Proxy_2](https://user-images.githubusercontent.com/78407424/170829650-ccf014c8-d401-4af4-aed3-a8ea578d9482.png)
+
 
 - di.xml is having higher priority rather than constructor 
 
