@@ -21,7 +21,8 @@ Proxies(Proxy Class)
 
 Factories(Factory Class)
 ------------------------
-![Screenshot from 2022-05-18 12-30-48](https://user-images.githubusercontent.com/78407424/168977431-5c30fa5c-9c27-4488-b32b-d60612abcb22.png)
+![Factories_3](https://user-images.githubusercontent.com/78407424/170829686-0171959b-3bb8-4469-a952-92ad24aca85d.png)
+
 
 Indexing
 --------
