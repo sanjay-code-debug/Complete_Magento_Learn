@@ -32,7 +32,8 @@ Indexing
 
 Caching
 -------
-![Screenshot from 2022-05-17 14-21-50](https://user-images.githubusercontent.com/78407424/168771375-42c89091-3ad8-4f98-96ed-baf03a24e506.png)
+![caching_5](https://user-images.githubusercontent.com/78407424/170829843-dc40a7ba-3ebc-40b3-9e6b-1eb3dfd0b73a.png)
+
 
 
 EAV
