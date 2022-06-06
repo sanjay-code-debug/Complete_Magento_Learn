@@ -442,9 +442,207 @@ PHP
         
         
         
-        
-        
-        
+Magento Community-Edition
+=========================
+
+
+
+
+
+
+
+
+
+Magento Enterprise Edition
+==========================
+
+
+
+
+
+
+
+
+
+Magento Cloud Commerce
+======================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Magento Fundamentals Part-1
+===========================
+
+Unit-1 Fundamentals of Magento Development pt-1
+-----------------------------------------------
+
+- Video Intro
+- Using the Player
+- Introduction
+- Approach Audience
+- Course Content
+- Best Way to Take the Course
+- Unit One Home Page
+
+##Preparation
+-------------
+- Preparation | Module Topics
+- Preparation | LAMP $ Composer
+- Preparation | Magento2 Installation
+- Video :Install Magento part1
+- Video :Install Magento part2
+- Video :Install Magento part3
+- Video :Install Magento part4
+
+##Overview $ Architecture
+-------------------------
+- Magento 2 Overview & Architecture | Module Topics
+- Magento 2 Platform & Architecture Platform
+- Magento 2 Platform & Architecture | Architecture
+- Magento 2 Platform & Architecture | Areas
+- Magento 2 Platform & Architecture | Magento 2 Essentials
+- Magento 2 Platform & Architecture | Components
+- Magento 2 Platform & Architecture | Paths
+- Magento 2 Platform & Architecture | File Types
+- Magento 2 Platform & Architecture | Config Files
+- Magento 2 Platform & Architecture | PHP Classes
+- Magento 2 Platform & Architecture | Development Process
+- Magento 2 Platform & Architecture | Enable Custom Code
+- Magento 2 Platform & Architecture | Modules
+- Modules | Location
+- Modules | Naming a Module 
+- Modules | Registering a Module/Empty Module Structure
+- Modules | module.xml
+- Modules | module.xml Example
+- Modules | registration.php
+- Modules | Module Dependencies
+- Modules | Types of Module Dependencies
+- Modules | Module Dependencies Tasks
+- Reinforcement Exercise 1.3.1:Modules
+
+
+##File System
+===========
+        - File System | Module Topics
+        - File System | Root Folders
+        - File System | App Folder Contents 
+        - File System | Framework & Core Modules
+        - File System | Core Source Code
+        - File System | Framework Source Code
+        - File System | Module Structure
+        - File System | Module View File Types
+        - File System | Templates
+        - File System | Templates(expanded)
+        - File System | Themes
+        - File System | Static Files
+        - MULTIPLE CHOICE QUESTION
+
+##Development Operations
+========================
+
+                                          - Development Operations | Module Topics
+                                          - Modes | Modules in Magento2
+                                          - Modes | Developer Mode in Magento 2 
+                                          - Modes | Production Mode in Magento 2 
+                                          - Modes | Default Mode in Magento 2 
+                                          - Modes | Summary of Mode Features
+                                          - Modes | Maintenance Mode in Magento 2 
+                                          - Modes | Specifying a Mode : Environment Variable
+                                          - Modes | Specifying a Mode : Web Server Environment
+                                          - Modes | Specifying a Mode : php-fpm Environment
+                                          - Video : Magento Modes
+                                          - Reinforcement Exercise 1.5.1:Mode
+                                          - Command-Line Interface | Magento 2 CLI
+                                          - Cache | Cache in Magento 2 
+                                          - Cache | Cache Type
+                                          - Cache | Cache Cleaning
+                                          - Reinforcement Exercise 1.5.2:Cache
+                                        
+
+##DI & Object Manager
+===================
+                                          - DI & Object Manager  | Modules Topics 
+                                          - Dependency Injection | DI Pattern
+                                          - Dependency Injection | Overview
+                                          - Reinforcement Exercise 1.6.1:Dependency Injection
+                                          - Dependency Injection | Class Instantiation in Magento 2
+                                          - Dependency Injection | Different Classes Instantiation
+                                          - Object Manager
+                                          - Object Manager | Shared Instances Concept
+                                          - Object Manager | Object Manager Usage
+                                          - Object Manager | Magento 2 Best Practice
+                                          - Object Manager | Auto-generated Classes
+                                          - Object Manager | Configuration
+                                          - Object Manager Configuration | Specification
+                                          - Object Manager Configuration | Preferences Example
+                                          - Object Manager Configuration | Argument Example
+                                          - Object Manager | Configuration Shared Argument Example
+                                          - Video : Dependency Injection
+                                          - Reinforcement Exercise 1.6.2: Object Manager
+                                          - Check Your Understanding(1.6.B)
+                                          
+                                          
+                                    
+##Plugins
+=========
+                                        - Plugins | Module Topics
+                                        - Plugins | Defination
+                                        - Plugins | Customizations
+                                        - Declare a Plugin
+                                        - Plugin Example | Before-Listener Method
+                                        - Plugin Example | After-Listener Method
+                                        - Plugin Example | Around-Listener Method
+                                        - Prioritizing Plugins
+                                        - Configuration Inheritance & Plugins
+                                        - Plugins | Interception
+                                        - Reinforcement Exercise 1.7.1: Plugins 1
+                                        - Reinforcement Exercise 1.7.2: Plugins 2
+                                        - Check Your Understanding 
+                                        - Check Your Understanding
+                                    
+
+##Events
+========
+
+                                        - Events | Module Example
+                                        - Events | Defination
+                                        - Events | Schema
+                                        - Events | Core Example: Saving an Order Process
+                                        - Demo | Registering an Event
+                                        - Reinforcement Exercise 1.8.1:Events
+                                        
+                                        
+                                        
+                                      
+##Module Configuration
+======================
+                                       - Module Configuration | Module Topics 
+                                       - Configuration Files Overview
+                                       - Configuration Files: Application Configuration
+                                       - Configuration Files: Modules's Configuration
+                                       - Configuration Files: Merging Config Files
+                                       - Configuration Files | Storage
+                                       - Configuration Files | core_config_data
+                                       - Configuration Files | Backend System Config Page
+                                       - Configuration Files | Scope
+                                       - Configuration Files | Merging
+                                       - Configuration Files | Validation
+                                       - Video : XSD Schema
+                                       - Error Reporting Settings | Overview
+                                       - Check Your Understanding(1.9.1:Module)
+                                       - Reinforcement Exercise 1.9.1: Module Configuration
+                                       - End of Unit One
 
 
 Magento Related Commands
