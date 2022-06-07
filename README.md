@@ -484,26 +484,27 @@ Magento Cloud Commerce
 Magento Fundamentals Part-1
 ===========================
 
-Unit-1 Fundamentals of Magento Development pt-1
------------------------------------------------
 
-- Video Intro
-- Using the Player
-- Introduction
-- Approach Audience
-- Course Content
-- Best Way to Take the Course
-- Unit One Home Page
+          Unit-1 Fundamentals of Magento Development pt-1
+          -----------------------------------------------
 
-##Preparation
--------------
-- Preparation | Module Topics
-- Preparation | LAMP $ Composer
-- Preparation | Magento2 Installation
-- Video :Install Magento part1
-- Video :Install Magento part2
-- Video :Install Magento part3
-- Video :Install Magento part4
+                                - Video Intro
+                                - Using the Player
+                                - Introduction
+                                - Approach Audience
+                                - Course Content
+                                - Best Way to Take the Course
+                                - Unit One Home Page
+
+          Preparation
+         -------------
+                          - Preparation | Module Topics
+                          - Preparation | LAMP $ Composer
+                          - Preparation | Magento2 Installation
+                          - Video :Install Magento part1
+                          - Video :Install Magento part2
+                          - Video :Install Magento part3
+                          - Video :Install Magento part4
 
 ##Overview $ Architecture
 -------------------------
