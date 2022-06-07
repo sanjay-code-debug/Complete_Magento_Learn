@@ -699,7 +699,7 @@ Technologies and requirements
                          - Cloud code testing for Commerce
                          - Docker quick reference
                          - Get support for Cloud Docker
-   Integrations
+       Integrations
                - Bitbucket integration
                - GitHub integration
                - GitLab integration
