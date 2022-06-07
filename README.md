@@ -715,97 +715,97 @@ Technologies and requirements
                          - Get support for Cloud Docker
    Integrations
                - Bitbucket integration
-GitHub integration
-GitLab integration
-Health notifications
-Import existing code into a project
-Prepare your existing system
-Import code
-Configure your store
-Best practices for store configuration
-Set up PayPal
-Set up B2B
-Set up cron jobs
-Set up multiple Cloud websites or stores
-Install, manage, and upgrade modules
-Install a theme
-Import URL Rewrites
-Configure Fastly services
-Set up Fastly
-Customize cache configuration
-Customize error and maintenance pages
-Web Application Firewall
-Image Optimization
-Custom VCL snippets
-Reroute requests to a CMS backend
-Block referral spam
-IP allow list
-IP block list
-Bypass Fastly cache
-Fastly troubleshooting
-Configure environments
-Application
-Properties
-Variables
-PHP application
-Workers
-Set cache for static files
-Build and deploy
-Set up notifications
-Logging handlers
-Routes
-Caching
-Redirects
-Server side includes
-Services
-Set up MySQL service
-Set up Redis service
-Set up Elasticsearch service
-Set up OpenSearch service
-Set up RabbitMQ service
-PHP (php.ini)
-Environment variables
-ADMIN variables
-Global variables
-Build variables
-Cloud variables
-Deploy variables
-Post-deploy variables
-Working with variables
-Configuration management for store settings
-Example of managing system-specific settings
-Optimize deployment
-Cloud deployment process
-Scenario-based deployment
-Zero downtime deployment
-Static content deployment
-Smart wizards
-Deploy your store
-Deployment process
-Continuous deployment
-Protective block
-Build and deploy on local
-Prepare to deploy to Staging and Production
-Deploy code and migrate static files and data
-Test deployment
-Error message reference for ece-tools
-Site launch
-Launch checklist
-Launch steps
-Troubleshooting
-Component deployment failure
-Add site map and search engine robots
-Upgrades and patches
-Update ece-tools
-Apply patches
-Upgrade version
-Upgrade project
-Release notes
-ece-tools
-Cloud Patches for Commerce
-Cloud Docker for Commerce
-Cloud Components for Commerce
-Backward incompatible changes
+               - GitHub integration
+               - GitLab integration
+               - Health notifications
+               - Import existing code into a project
+               - Prepare your existing system
+               - Import code
+               - Configure your store
+               - Best practices for store configuration
+               - Set up PayPal
+               - Set up B2B
+               - Set up cron jobs
+               - Set up multiple Cloud websites or stores
+               - Install, manage, and upgrade modules
+               - Install a theme
+               - Import URL Rewrites
+               - Configure Fastly services
+               - Set up Fastly
+               - Customize cache configuration
+               - Customize error and maintenance pages
+               - Web Application Firewall
+               - Image Optimization
+               - Custom VCL snippets
+               - Reroute requests to a CMS backend
+               - Block referral spam
+               - IP allow list
+               - IP block list
+               - Bypass Fastly cache
+               - Fastly troubleshooting
+               - Configure environments
+               - Application
+               - Properties
+               - Variables
+               - PHP application
+               - Workers
+               - Set cache for static files
+               - Build and deploy
+               - Set up notifications
+               - Logging handlers
+               - Routes
+               - Caching
+               - Redirects
+               - Server side includes
+               - Services
+               - Set up MySQL service
+               - Set up Redis service
+               - Set up Elasticsearch service
+               - Set up OpenSearch service
+               - Set up RabbitMQ service
+               - PHP (php.ini)
+               - Environment variables
+               - ADMIN variables
+               - Global variables
+               - Build variables
+               - Cloud variables
+               - Deploy variables
+               - Post-deploy variables
+               - Working with variables
+               - Configuration management for store settings
+               - Example of managing system-specific settings
+               - Optimize deployment
+               - Cloud deployment process
+               - Scenario-based deployment
+               - Zero downtime deployment
+               - Static content deployment
+               - Smart wizards
+               - Deploy your store
+               - Deployment process
+               - Continuous deployment
+               - Protective block
+               - Build and deploy on local
+               - Prepare to deploy to Staging and Production
+               - Deploy code and migrate static files and data
+               - Test deployment
+               - Error message reference for ece-tools
+               - Site launch
+               - Launch checklist
+               - Launch steps
+               - Troubleshooting
+               - Component deployment failure
+               - Add site map and search engine robots
+               - Upgrades and patches
+               - Update ece-tools
+               - Apply patches
+               - Upgrade version
+               - Upgrade project
+               - Release notes
+               - ece-tools
+               - Cloud Patches for Commerce
+               - Cloud Docker for Commerce
+               - Cloud Components for Commerce
+               - Backward incompatible changes
 
 
 
