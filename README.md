@@ -505,52 +505,51 @@ Magento Fundamentals Part-1
                           - Video :Install Magento part2
                           - Video :Install Magento part3
                           - Video :Install Magento part4
+        Overview $ Architecture
+        -------------------------
+                        - Magento 2 Overview & Architecture | Module Topics
+                        - Magento 2 Platform & Architecture Platform
+                        - Magento 2 Platform & Architecture | Architecture
+                        - Magento 2 Platform & Architecture | Areas
+                        - Magento 2 Platform & Architecture | Magento 2 Essentials
+                        - Magento 2 Platform & Architecture | Components
+                        - Magento 2 Platform & Architecture | Paths
+                        - Magento 2 Platform & Architecture | File Types
+                        - Magento 2 Platform & Architecture | Config Files
+                        - Magento 2 Platform & Architecture | PHP Classes
+                        - Magento 2 Platform & Architecture | Development Process
+                        - Magento 2 Platform & Architecture | Enable Custom Code
+                        - Magento 2 Platform & Architecture | Modules
+                        - Modules | Location
+                        - Modules | Naming a Module 
+                        - Modules | Registering a Module/Empty Module Structure
+                        - Modules | module.xml
+                        - Modules | module.xml Example
+                        - Modules | registration.php
+                        - Modules | Module Dependencies
+                        - Modules | Types of Module Dependencies
+                        - Modules | Module Dependencies Tasks
+                        - Reinforcement Exercise 1.3.1:Modules
 
-##Overview $ Architecture
--------------------------
-- Magento 2 Overview & Architecture | Module Topics
-- Magento 2 Platform & Architecture Platform
-- Magento 2 Platform & Architecture | Architecture
-- Magento 2 Platform & Architecture | Areas
-- Magento 2 Platform & Architecture | Magento 2 Essentials
-- Magento 2 Platform & Architecture | Components
-- Magento 2 Platform & Architecture | Paths
-- Magento 2 Platform & Architecture | File Types
-- Magento 2 Platform & Architecture | Config Files
-- Magento 2 Platform & Architecture | PHP Classes
-- Magento 2 Platform & Architecture | Development Process
-- Magento 2 Platform & Architecture | Enable Custom Code
-- Magento 2 Platform & Architecture | Modules
-- Modules | Location
-- Modules | Naming a Module 
-- Modules | Registering a Module/Empty Module Structure
-- Modules | module.xml
-- Modules | module.xml Example
-- Modules | registration.php
-- Modules | Module Dependencies
-- Modules | Types of Module Dependencies
-- Modules | Module Dependencies Tasks
-- Reinforcement Exercise 1.3.1:Modules
 
+           File System
+           -----------
+                        - File System | Module Topics
+                        - File System | Root Folders
+                        - File System | App Folder Contents 
+                        - File System | Framework & Core Modules
+                        - File System | Core Source Code
+                        - File System | Framework Source Code
+                        - File System | Module Structure
+                        - File System | Module View File Types
+                        - File System | Templates
+                        - File System | Templates(expanded)
+                        - File System | Themes
+                        - File System | Static Files
+                        - MULTIPLE CHOICE QUESTION
 
-##File System
-===========
-        - File System | Module Topics
-        - File System | Root Folders
-        - File System | App Folder Contents 
-        - File System | Framework & Core Modules
-        - File System | Core Source Code
-        - File System | Framework Source Code
-        - File System | Module Structure
-        - File System | Module View File Types
-        - File System | Templates
-        - File System | Templates(expanded)
-        - File System | Themes
-        - File System | Static Files
-        - MULTIPLE CHOICE QUESTION
-
-##Development Operations
-========================
+           Development Operations
+           ----------------------
 
                                           - Development Operations | Module Topics
                                           - Modes | Modules in Magento2
@@ -570,9 +569,9 @@ Magento Fundamentals Part-1
                                           - Cache | Cache Cleaning
                                           - Reinforcement Exercise 1.5.2:Cache
                                         
-
-##DI & Object Manager
-===================
+               DI & Object Manager
+               ------------------ 
+              
                                           - DI & Object Manager  | Modules Topics 
                                           - Dependency Injection | DI Pattern
                                           - Dependency Injection | Overview
@@ -595,8 +594,8 @@ Magento Fundamentals Part-1
                                           
                                           
                                     
-##Plugins
-=========
+                Plugins
+                -------
                                         - Plugins | Module Topics
                                         - Plugins | Defination
                                         - Plugins | Customizations
@@ -613,8 +612,8 @@ Magento Fundamentals Part-1
                                         - Check Your Understanding
                                     
 
-##Events
-========
+              Events
+              ------
 
                                         - Events | Module Example
                                         - Events | Defination
@@ -626,8 +625,8 @@ Magento Fundamentals Part-1
                                         
                                         
                                       
-##Module Configuration
-======================
+                Module Configuration
+                --------------------
                                        - Module Configuration | Module Topics 
                                        - Configuration Files Overview
                                        - Configuration Files: Application Configuration
@@ -644,6 +643,181 @@ Magento Fundamentals Part-1
                                        - Check Your Understanding(1.9.1:Module)
                                        - Reinforcement Exercise 1.9.1: Module Configuration
                                        - End of Unit One
+
+
+
+
+Cloud for Adobe Commerce
+========================
+                     - Overview
+                     - Onboarding tasks
+           Architecture
+                     - Starter architecture
+                     - Starter develop and deploy workflow
+                     - Pro architecture
+                     - Pro develop and deploy workflow
+                     - Scaled architecture
+Technologies and requirements
+
+                      - Composer
+                      - magento-cloud CLI
+                      - ece-tools package
+                      - Git
+                      - SSH and sFTP
+                      - PrivateLink
+                      - New Relic
+                      - SendGrid
+      Manage your project
+                      - Configure your project
+                      - Project structure
+                      - Manage user access
+                      - Enable MFA for SSH
+                      - Manage branches with the Interface
+                      - Manage branches with the CLI
+                      - Manage disk space
+                      - Monitor performance
+                      - View logs
+                      - Snapshots and backup management
+                      - Restore an environment
+                      - Profile database queries
+      Local development setup
+                       - Prepare for manual setup
+                       - Install prerequisites
+                       - Enable SSH keys
+                       - Set up the file system owner
+                       - Clone and branch the project
+                       - Install Commerce
+                       - First time deployment
+                       - Optional - Configure Xdebug
+                       - Optional - Install sample data
+      Cloud Docker development
+                  Install
+                      - Additional tools for file synchronization
+                      - Upgrade
+                  Use Docker
+                        - Production mode
+                        - Developer mode
+                  Configure and manage
+                        - Configuration sources
+                        - Manage the database
+                        - Manage cron jobs
+                        - Set up multiple websites or stores
+                        - Xdebug for Docker
+                        - Extend Docker
+                        - Add Blackfire.io service
+                 Docker container architecture
+                         - Service containers
+                         - CLI containers
+                 Functional Testing
+                         - Application testing
+                         - Cloud code testing for Commerce
+                         - Docker quick reference
+                         - Get support for Cloud Docker
+   Integrations
+               - Bitbucket integration
+GitHub integration
+GitLab integration
+Health notifications
+Import existing code into a project
+Prepare your existing system
+Import code
+Configure your store
+Best practices for store configuration
+Set up PayPal
+Set up B2B
+Set up cron jobs
+Set up multiple Cloud websites or stores
+Install, manage, and upgrade modules
+Install a theme
+Import URL Rewrites
+Configure Fastly services
+Set up Fastly
+Customize cache configuration
+Customize error and maintenance pages
+Web Application Firewall
+Image Optimization
+Custom VCL snippets
+Reroute requests to a CMS backend
+Block referral spam
+IP allow list
+IP block list
+Bypass Fastly cache
+Fastly troubleshooting
+Configure environments
+Application
+Properties
+Variables
+PHP application
+Workers
+Set cache for static files
+Build and deploy
+Set up notifications
+Logging handlers
+Routes
+Caching
+Redirects
+Server side includes
+Services
+Set up MySQL service
+Set up Redis service
+Set up Elasticsearch service
+Set up OpenSearch service
+Set up RabbitMQ service
+PHP (php.ini)
+Environment variables
+ADMIN variables
+Global variables
+Build variables
+Cloud variables
+Deploy variables
+Post-deploy variables
+Working with variables
+Configuration management for store settings
+Example of managing system-specific settings
+Optimize deployment
+Cloud deployment process
+Scenario-based deployment
+Zero downtime deployment
+Static content deployment
+Smart wizards
+Deploy your store
+Deployment process
+Continuous deployment
+Protective block
+Build and deploy on local
+Prepare to deploy to Staging and Production
+Deploy code and migrate static files and data
+Test deployment
+Error message reference for ece-tools
+Site launch
+Launch checklist
+Launch steps
+Troubleshooting
+Component deployment failure
+Add site map and search engine robots
+Upgrades and patches
+Update ece-tools
+Apply patches
+Upgrade version
+Upgrade project
+Release notes
+ece-tools
+Cloud Patches for Commerce
+Cloud Docker for Commerce
+Cloud Components for Commerce
+Backward incompatible changes
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Magento Related Commands
