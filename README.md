@@ -464,20 +464,6 @@ Magento Enterprise Edition
 
 
 
-Magento Cloud Commerce
-======================
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
