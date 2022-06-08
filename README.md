@@ -638,12 +638,15 @@ Cloud for Adobe Commerce
                      - Overview
                      - Onboarding tasks
 Architecture
+
                      - Starter architecture
                      - Starter develop and deploy workflow
                      - Pro architecture
                      - Pro develop and deploy workflow
                      - Scaled architecture
+                     
 Technologies and requirements
+
                       - Composer
                       - magento-cloud CLI
                       - ece-tools package
@@ -652,7 +655,9 @@ Technologies and requirements
                       - PrivateLink
                       - New Relic
                       - SendGrid 
+                      
 Manage your project
+
                       - Configure your project
                       - Project structure
                       - Manage user access
@@ -665,7 +670,9 @@ Manage your project
                       - Snapshots and backup management
                       - Restore an environment
                       - Profile database queries
+                      
 Local development setup
+
                        - Prepare for manual setup
                        - Install prerequisites
                        - Enable SSH keys
@@ -675,7 +682,9 @@ Local development setup
                        - First time deployment
                        - Optional - Configure Xdebug
                        - Optional - Install sample data
+                       
 Cloud Docker development
+
                   Install
                       - Additional tools for file synchronization
                       - Upgrade
@@ -699,11 +708,14 @@ Cloud Docker development
                          - Docker quick reference
                          - Get support for Cloud Docker
 Integrations
+
                - Bitbucket integration
                - GitHub integration
                - GitLab integration
                - Health notifications
+               
 Import existing code into a project
+
                - Prepare your existing system
                - Import code
 Configure your store
@@ -757,15 +769,21 @@ Configure environments
                     - Deploy variables
                     - Post-deploy variables
                     - Working with variables
+                    
 Configuration management for store settings
+
                - Example of managing system-specific settings
+               
 Optimize deployment
+
                - Cloud deployment process
                - Scenario-based deployment
                - Zero downtime deployment
                - Static content deployment
                - Smart wizards
+               
 Deploy your store
+
                - Deployment process
                - Continuous deployment
                - Protective block
@@ -774,17 +792,24 @@ Deploy your store
                - Deploy code and migrate static files and data
                - Test deployment
                - Error message reference for ece-tools
+               
 Site launch
+
                - Launch checklist
                - Launch steps
+               
 Troubleshooting
+
                - Component deployment failure
                - Add site map and search engine robots
+               
 Upgrades and patches
+
                - Update ece-tools
                - Apply patches
                - Upgrade version
                - Upgrade project
+               
 Release notes
                - ece-tools
                - Cloud Patches for Commerce
