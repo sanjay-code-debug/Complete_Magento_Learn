@@ -718,7 +718,9 @@ Import existing code into a project
 
                - Prepare your existing system
                - Import code
+               
 Configure your store
+
                - Best practices for store configuration
                - Set up PayPal
                - Set up B2B
@@ -727,7 +729,9 @@ Configure your store
                - Install, manage, and upgrade modules
                - Install a theme
                - Import URL Rewrites
+               
 Configure Fastly services
+
                - Set up Fastly
                     - Customize cache configuration
                     - Customize error and maintenance pages
@@ -740,7 +744,9 @@ Configure Fastly services
                     - IP block list
                     - Bypass Fastly cache
                - Fastly troubleshooting
+               
 Configure environments
+
                - Application
                    - Properties
                    - Variables
@@ -811,11 +817,14 @@ Upgrades and patches
                - Upgrade project
                
 Release notes
+
                - ece-tools
                - Cloud Patches for Commerce
                - Cloud Docker for Commerce
                - Cloud Components for Commerce
                - Backward incompatible changes
+               
+               
 
 
 
