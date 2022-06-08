@@ -637,14 +637,13 @@ Cloud for Adobe Commerce
 ========================
                      - Overview
                      - Onboarding tasks
-           Architecture
+Architecture
                      - Starter architecture
                      - Starter develop and deploy workflow
                      - Pro architecture
                      - Pro develop and deploy workflow
                      - Scaled architecture
 Technologies and requirements
-
                       - Composer
                       - magento-cloud CLI
                       - ece-tools package
@@ -652,8 +651,8 @@ Technologies and requirements
                       - SSH and sFTP
                       - PrivateLink
                       - New Relic
-                      - SendGrid
-      Manage your project
+                      - SendGrid 
+Manage your project
                       - Configure your project
                       - Project structure
                       - Manage user access
@@ -666,7 +665,7 @@ Technologies and requirements
                       - Snapshots and backup management
                       - Restore an environment
                       - Profile database queries
-      Local development setup
+Local development setup
                        - Prepare for manual setup
                        - Install prerequisites
                        - Enable SSH keys
@@ -676,7 +675,7 @@ Technologies and requirements
                        - First time deployment
                        - Optional - Configure Xdebug
                        - Optional - Install sample data
-      Cloud Docker development
+Cloud Docker development
                   Install
                       - Additional tools for file synchronization
                       - Upgrade
@@ -699,15 +698,15 @@ Technologies and requirements
                          - Cloud code testing for Commerce
                          - Docker quick reference
                          - Get support for Cloud Docker
-       Integrations
+Integrations
                - Bitbucket integration
                - GitHub integration
                - GitLab integration
                - Health notifications
-               - Import existing code into a project
+Import existing code into a project
                - Prepare your existing system
                - Import code
-               - Configure your store
+Configure your store
                - Best practices for store configuration
                - Set up PayPal
                - Set up B2B
@@ -716,57 +715,57 @@ Technologies and requirements
                - Install, manage, and upgrade modules
                - Install a theme
                - Import URL Rewrites
-               - Configure Fastly services
+Configure Fastly services
                - Set up Fastly
-               - Customize cache configuration
-               - Customize error and maintenance pages
+                    - Customize cache configuration
+                    - Customize error and maintenance pages
                - Web Application Firewall
                - Image Optimization
                - Custom VCL snippets
-               - Reroute requests to a CMS backend
-               - Block referral spam
-               - IP allow list
-               - IP block list
-               - Bypass Fastly cache
+                    - Reroute requests to a CMS backend
+                    - Block referral spam
+                    - IP allow list
+                    - IP block list
+                    - Bypass Fastly cache
                - Fastly troubleshooting
-               - Configure environments
+Configure environments
                - Application
-               - Properties
-               - Variables
-               - PHP application
-               - Workers
-               - Set cache for static files
+                   - Properties
+                   - Variables
+                   - PHP application
+                   - Workers
+                   - Set cache for static files
                - Build and deploy
-               - Set up notifications
-               - Logging handlers
+                   - Set up notifications
+                   - Logging handlers
                - Routes
-               - Caching
-               - Redirects
-               - Server side includes
+                    - Caching
+                    - Redirects
+                    - Server side includes
                - Services
-               - Set up MySQL service
-               - Set up Redis service
-               - Set up Elasticsearch service
-               - Set up OpenSearch service
-               - Set up RabbitMQ service
+                    - Set up MySQL service
+                    - Set up Redis service
+                    - Set up Elasticsearch service
+                    - Set up OpenSearch service
+                    - Set up RabbitMQ service
                - PHP (php.ini)
                - Environment variables
-               - ADMIN variables
-               - Global variables
-               - Build variables
-               - Cloud variables
-               - Deploy variables
-               - Post-deploy variables
-               - Working with variables
-               - Configuration management for store settings
+                    - ADMIN variables
+                    - Global variables
+                    - Build variables
+                    - Cloud variables
+                    - Deploy variables
+                    - Post-deploy variables
+                    - Working with variables
+Configuration management for store settings
                - Example of managing system-specific settings
-               - Optimize deployment
+Optimize deployment
                - Cloud deployment process
                - Scenario-based deployment
                - Zero downtime deployment
                - Static content deployment
                - Smart wizards
-               - Deploy your store
+Deploy your store
                - Deployment process
                - Continuous deployment
                - Protective block
@@ -775,18 +774,18 @@ Technologies and requirements
                - Deploy code and migrate static files and data
                - Test deployment
                - Error message reference for ece-tools
-               - Site launch
+Site launch
                - Launch checklist
                - Launch steps
-               - Troubleshooting
+Troubleshooting
                - Component deployment failure
                - Add site map and search engine robots
-               - Upgrades and patches
+Upgrades and patches
                - Update ece-tools
                - Apply patches
                - Upgrade version
                - Upgrade project
-               - Release notes
+Release notes
                - ece-tools
                - Cloud Patches for Commerce
                - Cloud Docker for Commerce
