@@ -5,6 +5,43 @@ All core details of Magento only for Quick Understading
 Concept
 =======
 
+
+
+
+
+AS A Developer What Common things need to Know
+===============================================
+
+      - If You wrote any single file in Magento How it Executed 
+                                                 |
+                                                 |-----what are all possible way to to get error(bootstrap.php(ini_set('display_errors', 1))
+                                                 |
+                                                 |-----Check the Modes ----
+                                                                         |------Default
+                                                                         |------Production  
+                                                                         |------Developer
+                                                                         
+     - What we are trying to Get Output  in Any Location is it the correct Place to Print/Show(Like - Session ID -- Not able to print in Terminal)
+     
+     
+     - What was the Basic Purpose of the Task
+                                          |------Clear Understanding on the Task ---- What need to Do
+                                          |------What Was the Perfect Solution
+     - Must Have Basic Idea 
+                        |----how any application is working
+                        |----how it giving response to browser
+                        |----session
+                        |----cookie   -----------what actually it is working not the theory(Real Implement)
+                        
+                        
+                        
+                        
+      
+
+
+
+
+
 Service Contract
 ----------------
 ![Service_contract](https://user-images.githubusercontent.com/78407424/170829619-146e2aa8-2507-4f36-bfaa-718794394412.png)
