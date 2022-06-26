@@ -683,7 +683,16 @@ Magento Fundamentals Part-2
               - Form Elements
               
   
-         
+  
+  
+Question for Part - 2
+---------------------
+- Write a module/class that logs the data that is supplied to the customer add/edit form before it is 
+  render in the admin panel. This data can be printed as an array into a log file.
+  
+  
+  
+  
 
 
 
