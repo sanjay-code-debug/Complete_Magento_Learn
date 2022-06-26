@@ -697,6 +697,12 @@ Question for Part - 2
 - Create html templates for a previous exercise that renders a list of customers from DataProvider(list of customers could be hardcoded)
  into html template.
    A skeleton -Unit1/ StandaloneXhtmlTemplateSkeleton has been provided - build on top of it to complete the exercise . It has a pre defined DataProvider
+Create a simple UiComponent which will render the "Hello World" Phrase on the Page
+
+- Use Unit1/JsDataProviderSkeleton. has a pre-defined DataProvider.
+
+- Use the generic URL to Fetch data for your component - the URL should use your DataProvider fetch the data.
+ Render the data to the html template.
 
 
 Cloud for Adobe Commerce
@@ -890,19 +896,7 @@ Release notes
                - Cloud Components for Commerce
                - Backward incompatible changes
                
-               
-
-
-
-
-
-
-
-
-
-
-
-
+              
 
 
 Magento Related Commands
@@ -914,14 +908,3 @@ Magento Related Commands
    - bin/magento list | grep mode
    - bin/magento deploy:mode:show
    - 
-
-        
-        
- 
- 
- 
- 
-  
-
-
-
