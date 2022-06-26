@@ -670,25 +670,27 @@ Magento Fundamentals Part-1
 Magento Fundamentals Part-2
 ============================
 
-  1.1  Introduction to UI Components
-             - UiComponent Overview
-             - UiComponent Definition
-             - UiComponent & Block Comparison
+1.1  Introduction to UI Components
+
+                - UiComponent Overview
+                - UiComponent Definition
+                - UiComponent & Block Comparison
                         
-  1.2 Architecture and Configuration
-              - Architecture 
-              - Configuration
-                  
-  1.3 Templates and Rendering
-              - Templates
-              - Rendering
- 
-  1.4 JavaScript Role in UiComponents
-              - JavaScript in UiComponent Overview
-              - Executing of UiComponents
+1.2 Architecture and Configuration
   
+               - Architecture 
+               - Configuration
+                  
+1.3 Templates and Rendering
+
+               - Templates
+               - Rendering
  
- 2.1 Introduction to Grids
+1.4 JavaScript Role in UiComponents
+               - JavaScript in UiComponent Overview
+               - Executing of UiComponents
+  
+2.1 Introduction to Grids
               - Grids Overview
               - Listing UiComponent
               - DataSource
@@ -699,6 +701,7 @@ Magento Fundamentals Part-2
               - Paging
               
   2.2  Intriduction to Forms
+  
               - Forms Overview
               - Form Components
               - Form Fieldsets
