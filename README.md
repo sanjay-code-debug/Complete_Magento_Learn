@@ -478,36 +478,9 @@ PHP
         |-----comming soon......
         
         
-        
-Magento Community-Edition
-=========================
-
-
-
-
-
-
-
-
-
-Magento Enterprise Edition
-==========================
-
-
-
-
-
-
-
-
-
-
-
 
 Magento Fundamentals Part-1
 ===========================
-
-
           Unit-1 Fundamentals of Magento Development pt-1
           -----------------------------------------------
 
@@ -520,7 +493,7 @@ Magento Fundamentals Part-1
                                 - Unit One Home Page
 
           Preparation
-         -------------
+          -----------
                           - Preparation | Module Topics
                           - Preparation | LAMP $ Composer
                           - Preparation | Magento2 Installation
@@ -687,10 +660,12 @@ Magento Fundamentals Part-2
                - Rendering
  
 1.4 JavaScript Role in UiComponents
+
                - JavaScript in UiComponent Overview
                - Executing of UiComponents
   
 2.1 Introduction to Grids
+
               - Grids Overview
               - Listing UiComponent
               - DataSource
