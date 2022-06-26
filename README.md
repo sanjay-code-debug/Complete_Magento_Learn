@@ -689,14 +689,14 @@ Question for Part - 2
 ---------------------
 - Write a module/class that logs the data that is supplied to the customer add/edit form before it is 
   render in the admin panel. This data can be printed as an array into a log file.
-  
-  
-  
-  
+  Create an extension that writes "Hello World" at the top of a mini-cart popup
 
-
-
-
+- Create a standalone component that renders hardcoded text from default.xhtml . Make that phrase available 
+  for all pages.
+  
+- Create html templates for a previous exercise that renders a list of customers from DataProvider(list of customers could be hardcoded)
+ into html template.
+   A skeleton -Unit1/ StandaloneXhtmlTemplateSkeleton has been provided - build on top of it to complete the exercise . It has a pre defined DataProvider
 
 
 Cloud for Adobe Commerce
