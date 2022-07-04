@@ -11,6 +11,12 @@ Concept
 
 AS A Developer What Common things need to Know
 ===============================================
+     
+     - Check Cache Due to Cache - not getting proper output so try with --- InCognito Mode
+     
+     - Check with Network section
+     - Check with Console section
+     
 
       - If You wrote any single file in Magento How it Executed 
                                                  |
