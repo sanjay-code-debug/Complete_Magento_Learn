@@ -45,6 +45,29 @@ AS A Developer What Common things need to Know
       
 
 
+Magento Codding Standard
+========================
+
+                     -  Write Code as Per Requirement
+                                           |------Create Interface
+                                           |------Create Classes 
+                                           |------Create Method 
+                                                           |-------One task for one Method
+                                                           |-------Use Try Catch 
+                                                           |-------Avoid use of For Loops
+                                                           |-------Give Proper Comments to Code
+                                                           |-------Make Clean and Optimize Code
+                                                           |-------Check Error through Logs
+                                                           |-------Write Test Cases for you Code
+                                                           |-------Check all Latest Code Release
+                     - PhpCS
+                     - PhpMd
+                     - Xdebug
+                     
+                     
+
+
+
 
 
 
