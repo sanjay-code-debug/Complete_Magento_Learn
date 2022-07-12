@@ -121,6 +121,24 @@ EAV
 
 
 
+Event and Observer
+------------------
+
+    - Events Related to Order
+                                 <!--
+                                    sales_order_place_after
+                                    sales_order_save_before
+                                 -->
+                                 
+                                 
+                                 
+                                 
+
+
+
+
+
+
 #Backend
  --------
  
