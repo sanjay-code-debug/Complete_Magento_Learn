@@ -1025,15 +1025,15 @@ Latest Versions Of Magento  and New Feature
 
 Implementation Of Third-Party Service in Magento
 ================================================
- |     - Google Tag Manager or Google Analytics                       ->  youtube video link  - 
- |    - Youtube Api (Showing youtube video on Product Image Place)
- |    - SMG91 Sms Gateway Integaration
- |    - 
- |
- |- Latest Technology into Magento
-    ------------------------------
-           |------ScandiPWA
-           |------Vue
+       |     - Google Tag Manager or Google Analytics                       ->  youtube video link  - 
+       |    - Youtube Api (Showing youtube video on Product Image Place)
+       |    - SMG91 Sms Gateway Integaration
+       |    - 
+       |
+       |- Latest Technology into Magento
+          ------------------------------
+                      |------ScandiPWA
+                      |------Vue
 
 
 
