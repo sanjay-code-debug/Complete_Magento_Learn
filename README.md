@@ -955,3 +955,133 @@ Magento Related Commands
    - bin/magento list | grep mode
    - bin/magento deploy:mode:show
    - 
+   
+   
+   
+
+
+Best Practice For Magento Devlopment
+====================================
+    - Think Before Start the Task   (Best Way For Implementation)  - Think Various Way 
+    - Xdebug
+    - PhpCs
+    - PhpMd
+    - Unit Testing
+    - MailHog / MailChip
+    - Comporize the Module(Available by require composer)
+    - Log the Error
+    - Create Own Functionality For Implement the Concept
+    - Try Catch  - Catching the Exception
+    - Have Proper and MeaningFull Name (Class, Method and Variables)
+                                      |----Access Specifier (When to declare - Public , Private )
+                                      |----One Method will Perform one Task
+                                      |- 
+    - Have Pro Skill with Research Level - Causes - Why and How
+          |- Learn Implementation of Message Queue 
+          |- Best Use of GraphQl
+          |- Best Use of Service Contract
+          |- Best Use of Rest Api
+          |- Complete working of Cron Job
+          |- Complete Understanding of Vendor Module and Any Other File Present in Magento
+          |- Learn KO 
+          |- Learn JS
+    - 
+    - Learn Complete Hoisting of Magento Site
+                                  |----Stage Deploy
+                                  |----Production
+                                  |----Live 
+    - Complete Setup of Magento
+                    |--Windows 
+                    |     |-------WSL        youtube link - 
+                    |     |-------Hyper-V    youtube link - 
+                    |     |-------XAMPP      youtube link - 
+                    |
+                    |--Ubuntu
+                    |    |----Docker
+                    |    |----LAMPP(Setup Vanilla Magento / Setup the Project)
+                    |
+                         
+   
+
+
+
+
+Latest Versions Of Magento  and New Feature
+===========================================
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    
+
+ 
+   
+
+Implementation Of Third-Party Service in Magento
+================================================
+ |     - Google Tag Manager or Google Analytics                       ->  youtube video link  - 
+ |    - Youtube Api (Showing youtube video on Product Image Place)
+ |    - SMG91 Sms Gateway Integaration
+ |    - 
+ |
+ |- Latest Technology into Magento
+    ------------------------------
+           |------ScandiPWA
+           |------Vue
+
+
+
+
+
+   
+
+
+Magento Contribution Path
+=========================
+
+           - Performance
+           - New Tools
+           - Architecture
+           - As Compare to Other E-commerce 
+           - Real Life Simplified
+           - Docs Support
+           - Security Thread
+           
+   
+   
+   
+Magento Certification Path
+==========================
+       
+       - Adobe Certified Professional - Adobe Commerce Developer   - AD0-E711
+       
+   
+
+Future  of Magento
+==================
+
+
+
+
+
+
+Company Working on Magento
+==========================
+
+
+
+
+
+   
+   
+   
+   
+   
+   
+   
